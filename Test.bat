@@ -1,1 +1,1 @@
-Echo 'testing the unit' ; %time% : %date%
+Echo "testing the unit : %time% : %date%"
