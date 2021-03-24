@@ -1,1 +1,1 @@
-echo ' deployment successfull ; %date% ; %time%
+echo  "deployment successfull : %date% : %time%"
