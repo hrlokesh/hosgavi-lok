@@ -1,1 +1,1 @@
-Echo Building new Code; %date% ; %time%
+Echo "Building new Code : %date% : %time%"
